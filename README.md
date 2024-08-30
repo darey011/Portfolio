@@ -18,6 +18,7 @@ Sales performance by identifying trends in sales volume,uncover any seasonality 
 
 
 **POWER POINT PRESENTATION.**
+
 ![power_point-removebg-preview](https://github.com/user-attachments/assets/a94bee7f-cad5-470b-9a57-cf662bc7f2ef)
 
 This shows detailed slide by slide facts, insights and recommendations for the car sales analysis project, thereby showcasing my skills in accurate presentation to stakeholders.
