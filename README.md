@@ -17,6 +17,7 @@ Sales performance by identifying trends in sales volume,uncover any seasonality 
 [Read More](https://www.linkedin.com/pulse/car-sales-analysis-year-2020-vantage-cars-ltd-owolabi-ademola-tt3df)
 
 
+
 **POWER POINT PRESENTATION.**
 
 ![power_point-removebg-preview](https://github.com/user-attachments/assets/a94bee7f-cad5-470b-9a57-cf662bc7f2ef)
