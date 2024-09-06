@@ -34,7 +34,7 @@ This shows detailed slide by slide facts, insights and recommendations for the c
 This project aims to analyze and optimize the conversion rate (CR) of leads into actual customers using
 the provided dataset. By understanding the factors influencing CR, we can enhance our sales strategies,
 improve lead generation efforts, and increase overall revenue..
-[Read More](https://www.linkedin.com/pulse/conversion-rate-sales-analytic-report-portfolio-project-ademola-5nkqf
+[Read More](https://www.linkedin.com/pulse/conversion-rate-sales-analytic-report-portfolio-project-ademola-5nkqf)
 
 
 
