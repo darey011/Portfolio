@@ -26,7 +26,7 @@ This shows detailed slide by slide facts, insights and recommendations for the c
 [view More](https://docs.google.com/presentation/d/1fFi1AXz3L8uCov9NjCvQN5Nl2SnzDp-t/edit?usp=drive_link&ouid=110029767479377009507&rtpof=true&sd=true)
 
 
-
+      
 **CONVERSION RATE SALES ANALYTIC REPORT WITH EXCEL.**
 <img width="505" alt="conversion image" src="https://github.com/user-attachments/assets/17affb09-4d26-457c-a99a-20d213b99406">
 
@@ -34,7 +34,34 @@ This shows detailed slide by slide facts, insights and recommendations for the c
 This project aims to analyze and optimize the conversion rate (CR) of leads into actual customers using
 the provided dataset. By understanding the factors influencing CR, we can enhance our sales strategies,
 improve lead generation efforts, and increase overall revenue..
-[Read More](https://www.linkedin.com/pulse/conversion-rate-sales-analytic-report-portfolio-project-ademola-5nkqf)
+[Read More](https://www.linkedin.com/pulse/conversion-rate-sales-analytic-report-portfolio-project-ademola-5nkqf
+
+
+
+
+## CONTACT DETAILS
+
+*Let’s connect and see how we can make a difference together!*
+<table>
+  <tbody>
+    <tr>
+      <td>📧</td>
+      <td><a href="mailto:owolabia_ademola23@yahoo.com">owolabia_ademola23@yahoo.com</a></td>
+    </tr>
+    <tr>
+      <td>📞</td>
+      <td>(234) 706-668-0555</td>
+    </tr>
+    <tr>
+      <td>📍</td>
+      <td>Lagos, Nigeria</td>
+    </tr>
+    <tr>
+      <td>🌐</td>
+      <td><a href="https://www.linkedin.com/in/owolabi-ademola-265051245/">The things I do daily on LinkedIn</a></td>
+    </tr>
+  </tbody>
+</table>
 
 
 
