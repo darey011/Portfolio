@@ -37,6 +37,13 @@ improve lead generation efforts, and increase overall revenue..
 [Read More](https://www.linkedin.com/pulse/conversion-rate-sales-analytic-report-portfolio-project-ademola-5nkqf)
 
 
+**HR ATTRITION ANALYSIS AND MANAGEMENT.**
+![image](https://github.com/user-attachments/assets/a282eaf5-3d10-48a2-aaa5-1aa1850baa93)
+
+
+An attrition report is important to any organization as it helps the organization know its attrition rate and the various reasons causing the workers to leave the organization. The workforce is the backbone of every organization, so organizations must strive not to lose competent workers. This analysis will help you understand key patterns and insights that can drive business decisions, particularly in HR and management
+[Read More](https://www.linkedin.com/posts/owolabi-ademola-265051245_hr-analysis-and-management-dataanalysis-activity-7264350996548513792-B4eO?utm_source=share&utm_medium=member_desktop)
+
 
 
 
